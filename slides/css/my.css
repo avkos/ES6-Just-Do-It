@@ -1,0 +1,31 @@
+code,.slide-background{
+    background-color: #fff!important;
+
+}
+code, code *{
+    color: #000!important;
+}
+code.hljs{
+    overflow: hidden !important;
+}
+code .hljs-comment{
+    color: #317D33!important;
+}
+code .hljs-string{
+    color: #3991ef!important;
+}
+code .hljs-keyword{
+    color: #0200A0!important;
+}
+code .hljs-built_in{
+    color: #C15800!important;
+}
+rect{
+    fill: #fff!important;
+}
+line[stroke="#ffffff"]{
+    stroke: #000;
+}
+.reveal .sl-block .sl-block-content{
+    color: #000!important;
+}
